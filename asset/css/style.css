@@ -53,11 +53,11 @@ h1 {
 }
 
 #nav_burger {
-    background-color: #ad9064;
+    background-color: #f7ce91;
     padding: 3rem;
     width: 100%;
-    -webkit-box-shadow: 5px 5px 15px 5px #ffefe0;
-    box-shadow: 5px 5px 15px 5px #ffefe0;
+    -webkit-box-shadow: 5px 5px 15px 5px rgb(109, 58, 11);
+    box-shadow: 5px 5px 15px 5px rgb(196, 153, 114);
     position: fixed;
 }
 
@@ -105,7 +105,7 @@ nav ul {
 .text_profil a {
     display: flex;
     align-items: center;
-    background-color: #ad9064;
+    background-color: #f7ce91;
     flex-direction: column;
     margin: 3rem 0;
     font-size: 4rem;
@@ -141,9 +141,9 @@ h2 {
 
 /*Separator*/
 .separator {
-    background-color: #ad9064;
+    background-color: #f0be74;
     width: 100%;
-    height: 1rem;
+    height: 5rem;
 }
 
 /*Services*/
@@ -215,12 +215,12 @@ h2 {
 
 /*Footer*/
 #footer {
-    background-color: #ad9064;
+    background-color: #f7ce91;
     width: 100%;
     height: 100%;
     padding: 1rem;
-    -webkit-box-shadow: 5px 5px 15px 5px #ffefe0;
-    box-shadow: 5px 5px 15px 5px #ffefe0;
+    -webkit-box-shadow: 5px 5px 15px 5px rgb(109, 58, 11);
+    box-shadow: 5px 5px 15px 5px rgb(196, 153, 114);
 }
 
 #footer .wrap {
